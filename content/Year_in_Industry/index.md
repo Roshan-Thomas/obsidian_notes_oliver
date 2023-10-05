@@ -1,0 +1,4 @@
+---
+title: Year in Industry
+---
+
