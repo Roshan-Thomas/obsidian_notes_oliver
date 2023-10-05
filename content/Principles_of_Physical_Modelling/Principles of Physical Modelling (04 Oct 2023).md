@@ -9,7 +9,7 @@ On a flat surface, we have a disc that is rotating with angular momentum $\vec\o
 
 The length of the rod is $L$, the point the rod is touching the hemi-spherical surface is marked $B$. The radius of the disc and the radius of the hemi-spherical surface is $R$.
 
-![[Principles-of-Physical-Modelling/images/Pasted image 20231004090900.png]]
+![[Principles-of-Physical-Modelling/images/Pasted-image-20231004090900.png]]
 
 **Solution**
 The relative velocity equation 
@@ -63,7 +63,9 @@ $$
 \vec\omega_2=\omega_2\vec k
 $$
 The zero velocity point on a rigid body is perpendicular to the points on the rigid body (point $A$)
-![[Principles-of-Physical-Modelling/images/Pasted image 20231004093949.png|600]]
+
+![[Principles-of-Physical-Modelling/images/Pasted-image-20231004093949.png]]
+
 $$
 \vec v_B=v_B\vec i,\,\,\, v_B>0
 $$
