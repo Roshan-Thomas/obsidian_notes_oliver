@@ -5,8 +5,11 @@ date: 03 Oct 2023
 
 # Recap
 Scalar function: Takes in a scalar and outputs a scalar
+
 Vector function: Takes in a scalar and outputs a vector
+
 Scalar field: Takes in a vector and outputs a scalar
+
 Vector field: Takes in a vector and outputs a vector
 ____
 # The gradient of a scalar field
