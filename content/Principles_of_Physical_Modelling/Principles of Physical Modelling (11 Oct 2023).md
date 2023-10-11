@@ -109,6 +109,7 @@ Ball $A$ has mass $m_1$ and Ball $B$ has mass $m_2$
 In this example, the ball $B$ acts like a pendulum.
 
 **Kinetic Energy**
+
 Velocity of $A$
 $$
 \vec v_{A}=\vec V_0+\vec\omega_1\times\vec r_{OA},\,\,\,\, \vec\omega_1=\dot\phi\vec k
@@ -186,6 +187,7 @@ m_2L^2\ddot\beta+m_2RL\ddot\phi(\cos(\phi-\beta)-\ddot\phi^2\sin(\phi-\beta))+m_
 $$
 
 **Equilibrium**
+
 Calculating the partial differentiation of L with respect to $\beta$
 $$
 \frac{\partial L}{\partial \beta}=0
@@ -210,9 +212,10 @@ $$
 (0,0),\, (0,\pi),\, (\pi,0),\, (\pi,\pi)
 $$
 **Stability**
+
 *Mass Matrix M*
 $$
-\frac{\partial^2L}{\partial\dot\beta^2}\Bigg|_{\phi=\dot\beta=0}=\frac{\partial}{\partial \dot\beta}(m_2L^2\dot\beta+m_2RL\dot\phi\cos(\phi-\beta))=m_{11}=m_2L^2
+\frac{\partial^2L}{\partial\dot\beta^2}\Bigg|_{\dot\phi=\dot\beta=0}=\frac{\partial}{\partial \dot\beta}(m_2L^2\dot\beta+m_2RL\dot\phi\cos(\phi-\beta))=m_{11}=m_2L^2
 $$
 $$
 M_{12}=\frac{\partial^2L}{\partial \dot\beta\partial\dot\phi}=\frac{\partial}{\partial\dot\beta}(m_2R^2\dot\phi+m_2R^2\dot\phi+m_2RL\beta\cos(\phi-\beta))
