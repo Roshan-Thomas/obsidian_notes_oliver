@@ -1,5 +1,5 @@
 ---
-title: Lecture 1
+title: Lecture 2
 date: 26 Jan 2024
 ---
 ## Linearity

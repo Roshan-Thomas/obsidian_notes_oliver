@@ -1,5 +1,5 @@
 ---
-title: Lecture 3
+title: Lecture 4
 date: 02 Feb 2024
 ---
 # Separation of Variables

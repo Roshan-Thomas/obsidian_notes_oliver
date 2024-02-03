@@ -1,5 +1,5 @@
 ---
-title: Lecture 2
+title: Lecture 3
 date: 30 Jan 2024
 ---
 PDE - Partial Differential Equations
