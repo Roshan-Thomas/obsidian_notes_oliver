@@ -8,7 +8,7 @@ export const sharedPageComponents: SharedLayout = {
   footer: Component.Footer({
     links: {
       "Home Page": "http://localhost:8080/",
-      GitHub: "https://github.com/jackyzha0/quartz",
+      GitHub: "https://github.com/Roshan-Thomas/obsidian_notes_oliver",
     },
   }),
 }

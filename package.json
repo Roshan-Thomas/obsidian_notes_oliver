@@ -1,15 +1,15 @@
 {
-  "name": "@jackyzha0/quartz",
+  "name": "@Roshan-Thomas",
   "description": "🌱 publish your digital garden and notes as a website",
   "private": true,
   "version": "4.1.0",
   "type": "module",
-  "author": "jackyzha0 <j.zhao2k19@gmail.com>",
+  "author": "Roshan Thomas",
   "license": "MIT",
-  "homepage": "https://quartz.jzhao.xyz",
+  "homepage": "https://oliver-notes.netlify.app/",
   "repository": {
     "type": "git",
-    "url": "https://github.com/jackyzha0/quartz.git"
+    "url": "https://github.com/Roshan-Thomas/obsidian_notes_oliver"
   },
   "scripts": {
     "docs": "npx quartz build --serve -d docs",
