@@ -100,7 +100,7 @@ $$
 $$
 If $v\in U$
 $$
-\bar v_1=a_1\bar u_1+a_2+\bar u_2
+\bar v_1=a_1\bar u_1+a_2\bar u_2
 $$
 $$
 \begin{bmatrix}2&3\\5&2\\0&1\end{bmatrix}\begin{bmatrix}a_1\\a_2\end{bmatrix}=\begin{bmatrix}5\\7\\1\end{bmatrix}
